@@ -1,0 +1,903 @@
+newmtl mat_0
+Kd 0.2196 0.5333 0.4275
+d 1.0
+map_Kd YeepsMap_textures/tex_0.png
+newmtl mat_1
+Kd 0.2196 0.5333 0.4275
+d 1.0
+newmtl mat_2
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_1.png
+newmtl mat_3
+Kd 0.8745 0.6196 0.3294
+d 1.0
+newmtl mat_4
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_2.png
+newmtl mat_5
+Kd 0.3412 0.3765 0.4667
+d 1.0
+newmtl mat_6
+Kd 0.0706 0.0706 0.0706
+d 1.0
+newmtl mat_7
+Kd 0.7608 0.8314 0.8627
+d 1.0
+newmtl mat_8
+Kd 0.9608 0.9608 0.9608
+d 1.0
+newmtl mat_9
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_3.png
+newmtl mat_10
+Kd 0.1412 0.2588 0.4510
+d 1.0
+newmtl mat_11
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_4.png
+newmtl mat_12
+Kd 0.5922 0.6745 0.7059
+d 1.0
+newmtl mat_13
+Kd 0.1412 0.2588 0.4510
+d 1.0
+newmtl mat_14
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_5.png
+newmtl mat_15
+Kd 0.1412 0.2588 0.4510
+d 1.0
+newmtl mat_16
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_6.png
+newmtl mat_17
+Kd 0.4196 0.6627 0.7020
+d 1.0
+newmtl mat_18
+Kd 0.3412 0.3765 0.4667
+d 1.0
+newmtl mat_19
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_7.png
+newmtl mat_20
+Kd 0.2118 0.2235 0.2980
+d 1.0
+newmtl mat_21
+Kd 0.8745 0.4353 0.3294
+d 1.0
+newmtl mat_22
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_8.png
+newmtl mat_23
+Kd 0.5686 0.4667 0.4196
+d 1.0
+newmtl mat_24
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_9.png
+newmtl mat_25
+Kd 0.3647 0.4196 0.7412
+d 1.0
+newmtl mat_26
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_10.png
+newmtl mat_27
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_11.png
+newmtl mat_28
+Kd 0.4667 0.4745 0.4824
+d 1.0
+newmtl mat_29
+Kd 0.5922 0.6745 0.7059
+d 1.0
+map_Kd YeepsMap_textures/tex_12.png
+newmtl mat_30
+Kd 0.9608 0.9608 0.9608
+d 1.0
+newmtl mat_31
+Kd 0.5686 0.4667 0.4196
+d 1.0
+newmtl mat_32
+Kd 0.2118 0.2235 0.2980
+d 1.0
+newmtl mat_33
+Kd 0.9686 0.7647 0.1922
+d 1.0
+newmtl mat_34
+Kd 0.8824 0.7333 0.3176
+d 1.0
+newmtl mat_35
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_13.png
+newmtl mat_36
+Kd 0.8745 0.4353 0.3294
+d 1.0
+newmtl mat_37
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_14.png
+newmtl mat_38
+Kd 0.3647 0.4196 0.7412
+d 1.0
+newmtl mat_39
+Kd 0.5137 0.7333 0.2667
+d 1.0
+newmtl mat_40
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_15.png
+newmtl mat_41
+Kd 0.3647 0.4196 0.7412
+d 1.0
+newmtl mat_42
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_16.png
+newmtl mat_43
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_44
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_17.png
+newmtl mat_45
+Kd 0.3412 0.3765 0.4667
+d 1.0
+newmtl mat_46
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_18.png
+newmtl mat_47
+Kd 0.9608 0.7765 0.5529
+d 1.0
+newmtl mat_48
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_19.png
+newmtl mat_49
+Kd 0.3686 0.7882 0.6275
+d 1.0
+newmtl mat_50
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_20.png
+newmtl mat_51
+Kd 0.4510 0.3725 0.6902
+d 1.0
+newmtl mat_52
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_21.png
+newmtl mat_53
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_22.png
+newmtl mat_54
+Kd 0.4510 0.3725 0.6902
+d 1.0
+newmtl mat_55
+Kd 0.2196 0.4902 0.5333
+d 1.0
+newmtl mat_56
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_23.png
+newmtl mat_57
+Kd 0.4510 0.3725 0.6902
+d 1.0
+newmtl mat_58
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_24.png
+newmtl mat_59
+Kd 0.7608 0.8314 0.8627
+d 1.0
+newmtl mat_60
+Kd 0.2196 0.4902 0.5333
+d 1.0
+newmtl mat_61
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_25.png
+newmtl mat_62
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_26.png
+newmtl mat_63
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_27.png
+newmtl mat_64
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_65
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_28.png
+newmtl mat_66
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_29.png
+newmtl mat_67
+Kd 0.0706 0.0706 0.0706
+d 1.0
+newmtl mat_68
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_30.png
+newmtl mat_69
+Kd 0.3412 0.3765 0.4667
+d 1.0
+newmtl mat_70
+Kd 0.1765 0.3490 0.3098
+d 1.0
+newmtl mat_71
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_31.png
+newmtl mat_72
+Kd 0.8588 0.5373 0.6745
+d 1.0
+newmtl mat_73
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_32.png
+newmtl mat_74
+Kd 0.7373 0.7490 0.7686
+d 1.0
+newmtl mat_75
+Kd 0.4667 0.4745 0.4824
+d 1.0
+newmtl mat_76
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_33.png
+newmtl mat_77
+Kd 0.4667 0.4745 0.4824
+d 1.0
+newmtl mat_78
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_34.png
+newmtl mat_79
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_80
+Kd 0.9340 0.9340 0.9340
+d 1.0
+map_Kd YeepsMap_textures/tex_35.png
+newmtl mat_81
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_36.png
+newmtl mat_82
+Kd 0.7373 0.7490 0.7686
+d 1.0
+newmtl mat_83
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_37.png
+newmtl mat_84
+Kd 0.8824 0.7333 0.3176
+d 1.0
+newmtl mat_85
+Kd 0.8745 0.4353 0.3294
+d 1.0
+newmtl mat_86
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_87
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_38.png
+newmtl mat_88
+Kd 0.5725 0.4980 0.8706
+d 1.0
+newmtl mat_89
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_39.png
+newmtl mat_90
+Kd 0.5725 0.4980 0.8706
+d 1.0
+newmtl mat_91
+Kd 0.8275 0.4706 0.7686
+d 1.0
+newmtl mat_92
+Kd 0.8588 0.5373 0.6745
+d 1.0
+newmtl mat_93
+Kd 0.1765 0.3490 0.3098
+d 1.0
+newmtl mat_94
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_40.png
+newmtl mat_95
+Kd 0.1765 0.3490 0.3098
+d 1.0
+newmtl mat_96
+Kd 0.5098 0.7255 0.8745
+d 1.0
+newmtl mat_97
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_41.png
+newmtl mat_98
+Kd 0.8745 0.6196 0.3294
+d 1.0
+newmtl mat_99
+Kd 0.3686 0.7765 0.7882
+d 1.0
+newmtl mat_100
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_42.png
+newmtl mat_101
+Kd 0.3686 0.7765 0.7882
+d 1.0
+newmtl mat_102
+Kd 0.5098 0.7255 0.8745
+d 1.0
+newmtl mat_103
+Kd 0.8588 0.5373 0.6745
+d 1.0
+newmtl mat_104
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_43.png
+newmtl mat_105
+Kd 0.6157 0.2549 0.2549
+d 1.0
+newmtl mat_106
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_44.png
+newmtl mat_107
+Kd 0.6314 0.3961 0.3137
+d 1.0
+newmtl mat_108
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_45.png
+newmtl mat_109
+Kd 0.3686 0.7765 0.7882
+d 1.0
+newmtl mat_110
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_46.png
+newmtl mat_111
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_47.png
+newmtl mat_112
+Kd 0.9686 0.7647 0.1922
+d 1.0
+newmtl mat_113
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_48.png
+newmtl mat_114
+Kd 0.5922 0.6745 0.7059
+d 1.0
+newmtl mat_115
+Kd 0.8824 0.7333 0.3176
+d 1.0
+newmtl mat_116
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_49.png
+newmtl mat_117
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_118
+Kd 0.9686 0.7647 0.1922
+d 1.0
+newmtl mat_119
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_50.png
+newmtl mat_120
+Kd 0.8824 0.7333 0.3176
+d 1.0
+newmtl mat_121
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_51.png
+newmtl mat_122
+Kd 0.5137 0.7333 0.2667
+d 1.0
+newmtl mat_123
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_52.png
+newmtl mat_124
+Kd 0.5137 0.7333 0.2667
+d 1.0
+newmtl mat_125
+Kd 0.9608 0.7765 0.5529
+d 1.0
+newmtl mat_126
+Kd 0.7373 0.7490 0.7686
+d 1.0
+newmtl mat_127
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_53.png
+newmtl mat_128
+Kd 0.8863 0.7725 0.6275
+d 1.0
+newmtl mat_129
+Kd 0.7373 0.7490 0.7686
+d 1.0
+newmtl mat_130
+Kd 0.8275 0.4706 0.7686
+d 1.0
+newmtl mat_131
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_54.png
+newmtl mat_132
+Kd 0.8745 0.4353 0.3294
+d 1.0
+newmtl mat_133
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_55.png
+newmtl mat_134
+Kd 0.8745 0.4353 0.3294
+d 1.0
+newmtl mat_135
+Kd 0.8824 0.7333 0.3176
+d 1.0
+newmtl mat_136
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_56.png
+newmtl mat_137
+Kd 0.7176 0.6118 0.5686
+d 1.0
+newmtl mat_138
+Kd 0.3686 0.7882 0.6275
+d 1.0
+newmtl mat_139
+Kd 0.5686 0.4667 0.4196
+d 1.0
+newmtl mat_140
+Kd 0.5098 0.7255 0.8745
+d 1.0
+newmtl mat_141
+Kd 0.3412 0.3765 0.4667
+d 1.0
+newmtl mat_142
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_57.png
+newmtl mat_143
+Kd 0.9608 0.7765 0.5529
+d 1.0
+newmtl mat_144
+Kd 0.8745 0.4353 0.3294
+d 1.0
+newmtl mat_145
+Kd 0.8745 0.4353 0.3294
+d 1.0
+newmtl mat_146
+Kd 0.8745 0.6196 0.3294
+d 1.0
+newmtl mat_147
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_58.png
+newmtl mat_148
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_149
+Kd 0.9608 0.9608 0.9608
+d 1.0
+newmtl mat_150
+Kd 0.4510 0.3725 0.6902
+d 1.0
+newmtl mat_151
+Kd 0.9686 0.7647 0.1922
+d 1.0
+newmtl mat_152
+Kd 1.0000 0.5255 0.1333
+d 1.0
+newmtl mat_153
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_59.png
+newmtl mat_154
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_155
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_60.png
+newmtl mat_156
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_61.png
+newmtl mat_157
+Kd 0.2118 0.2235 0.2980
+d 1.0
+newmtl mat_158
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_62.png
+newmtl mat_159
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_160
+Kd 0.2588 0.2157 0.1961
+d 1.0
+newmtl mat_161
+Kd 0.9608 0.9608 0.9608
+d 1.0
+newmtl mat_162
+Kd 0.3647 0.4196 0.7412
+d 1.0
+newmtl mat_163
+Kd 0.3686 0.7882 0.6275
+d 1.0
+newmtl mat_164
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_63.png
+newmtl mat_165
+Kd 0.3686 0.7882 0.6275
+d 1.0
+newmtl mat_166
+Kd 0.8745 0.6196 0.3294
+d 1.0
+newmtl mat_167
+Kd 0.4667 0.4745 0.4824
+d 1.0
+newmtl mat_168
+Kd 0.9340 0.9340 0.9340
+d 1.0
+map_Kd YeepsMap_textures/tex_64.png
+newmtl mat_169
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_65.png
+newmtl mat_170
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_66.png
+newmtl mat_171
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_67.png
+newmtl mat_172
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_68.png
+newmtl mat_173
+Kd 0.5098 0.7255 0.8745
+d 1.0
+map_Kd YeepsMap_textures/tex_69.png
+newmtl mat_174
+Kd 0.9608 0.7765 0.5529
+d 1.0
+newmtl mat_175
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_70.png
+newmtl mat_176
+Kd 0.2118 0.2235 0.2980
+d 1.0
+newmtl mat_177
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_71.png
+newmtl mat_178
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_72.png
+newmtl mat_179
+Kd 0.2118 0.2235 0.2980
+d 1.0
+newmtl mat_180
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_73.png
+newmtl mat_181
+Kd 0.2588 0.2157 0.1961
+d 1.0
+newmtl mat_182
+Kd 0.1765 0.3490 0.3098
+d 1.0
+map_Kd YeepsMap_textures/tex_74.png
+newmtl mat_183
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_75.png
+newmtl mat_184
+Kd 0.3647 0.4196 0.7412
+d 1.0
+newmtl mat_185
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_76.png
+newmtl mat_186
+Kd 0.7170 0.7170 0.7170
+d 1.0
+map_Kd YeepsMap_textures/tex_77.png
+newmtl mat_187
+Kd 0.7170 0.7170 0.7170
+d 1.0
+map_Kd YeepsMap_textures/tex_78.png
+newmtl mat_188
+Kd 0.9608 0.9608 0.9608
+d 1.0
+newmtl mat_189
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_79.png
+newmtl mat_190
+Kd 0.8588 0.5373 0.6745
+d 1.0
+newmtl mat_191
+Kd 0.9608 0.9608 0.9608
+d 1.0
+newmtl mat_192
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_80.png
+newmtl mat_193
+Kd 0.8824 0.7333 0.3176
+d 1.0
+newmtl mat_194
+Kd 0.8275 0.4706 0.7686
+d 1.0
+newmtl mat_195
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_81.png
+newmtl mat_196
+Kd 0.3412 0.3765 0.4667
+d 1.0
+newmtl mat_197
+Kd 0.3686 0.7765 0.7882
+d 1.0
+newmtl mat_198
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_82.png
+newmtl mat_199
+Kd 0.8745 0.3294 0.3294
+d 1.0
+newmtl mat_200
+Kd 0.9608 0.9608 0.9608
+d 1.0
+newmtl mat_201
+Kd 0.7569 0.7059 0.9765
+d 1.0
+newmtl mat_202
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_83.png
+newmtl mat_203
+Kd 0.7569 0.7059 0.9765
+d 1.0
+newmtl mat_204
+Kd 0.4510 0.3725 0.6902
+d 1.0
+newmtl mat_205
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_84.png
+newmtl mat_206
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_85.png
+newmtl mat_207
+Kd 0.2196 0.5333 0.4275
+d 1.0
+newmtl mat_208
+Kd 1.0000 0.5255 0.1333
+d 1.0
+newmtl mat_209
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_86.png
+newmtl mat_210
+Kd 0.5137 0.7333 0.2667
+d 1.0
+newmtl mat_211
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_87.png
+newmtl mat_212
+Kd 0.3647 0.4196 0.7412
+d 1.0
+newmtl mat_213
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_88.png
+newmtl mat_214
+Kd 0.8745 0.6196 0.3294
+d 1.0
+newmtl mat_215
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_89.png
+newmtl mat_216
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_90.png
+newmtl mat_217
+Kd 0.9608 0.7765 0.5529
+d 1.0
+map_Kd YeepsMap_textures/tex_91.png
+newmtl mat_218
+Kd 0.3412 0.3765 0.4667
+d 1.0
+newmtl mat_219
+Kd 0.5725 0.4980 0.8706
+d 1.0
+map_Kd YeepsMap_textures/tex_92.png
+newmtl mat_220
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_93.png
+newmtl mat_221
+Kd 0.5725 0.4980 0.8706
+d 1.0
+newmtl mat_222
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_94.png
+newmtl mat_223
+Kd 0.5725 0.4980 0.8706
+d 1.0
+newmtl mat_224
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_95.png
+newmtl mat_225
+Kd 0.4667 0.4745 0.4824
+d 1.0
+newmtl mat_226
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_96.png
+newmtl mat_227
+Kd 0.3404 0.5313 0.9623
+d 1.0
+map_Kd YeepsMap_textures/tex_97.png
+newmtl mat_228
+Kd 0.9608 0.7765 0.5529
+d 1.0
+map_Kd YeepsMap_textures/tex_98.png
+newmtl mat_229
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_99.png
+newmtl mat_230
+Kd 0.2588 0.2157 0.1961
+d 1.0
+newmtl mat_231
+Kd 0.7569 0.7059 0.9765
+d 1.0
+newmtl mat_232
+Kd 0.1765 0.3490 0.3098
+d 1.0
+newmtl mat_233
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_100.png
+newmtl mat_234
+Kd 0.9340 0.9340 0.9340
+d 1.0
+map_Kd YeepsMap_textures/tex_101.png
+newmtl mat_235
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_102.png
+newmtl mat_236
+Kd 1.0000 0.5255 0.1333
+d 1.0
+newmtl mat_237
+Kd 0.5098 0.7255 0.8745
+d 1.0
+newmtl mat_238
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_103.png
+newmtl mat_239
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_104.png
+newmtl mat_240
+Kd 0.1765 0.3490 0.3098
+d 1.0
+map_Kd YeepsMap_textures/tex_105.png
+newmtl mat_241
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_106.png
+newmtl mat_242
+Kd 0.2196 0.4902 0.5333
+d 1.0
+newmtl mat_243
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_107.png
+newmtl mat_244
+Kd 0.9686 0.7647 0.1922
+d 1.0
+newmtl mat_245
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_108.png
+newmtl mat_246
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_109.png
+newmtl mat_247
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_110.png
+newmtl mat_248
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_111.png
+newmtl mat_249
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_112.png
+newmtl mat_250
+Kd 1.0000 0.9195 0.6085
+d 1.0
+map_Kd YeepsMap_textures/tex_113.png
+newmtl mat_251
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_114.png
+newmtl mat_252
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_115.png
+newmtl mat_253
+Kd 0.7725 0.1882 0.4627
+d 1.0
+newmtl mat_254
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_116.png
+newmtl mat_255
+Kd 0.7725 0.1882 0.4627
+d 1.0
+newmtl mat_256
+Kd 0.7725 0.1882 0.4627
+d 1.0
+newmtl mat_257
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_117.png
+newmtl mat_258
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_118.png
+newmtl mat_259
+Kd 0.4196 0.6627 0.7020
+d 1.0
+newmtl mat_260
+Kd 1.0000 1.0000 1.0000
+d 1.0
+map_Kd YeepsMap_textures/tex_119.png
